@@ -1,0 +1,39 @@
+body {
+    background: whitesmoke;
+    max-width: 900px;
+    font-family: Verdana;
+    margin: 20px;
+}
+
+.FILOSOFIA-ANTIGA {
+    text-transform: uppercase;
+    font-size: 50px;
+    color: orange;
+    font-weight: 700;
+    margin: 1px;
+    margin-bottom: 20px;
+    border-bottom: solid 3px black;
+}
+
+.filosofia1 {
+    width: 85%;
+    margin-bottom: 5px;
+    margin: 2px;
+}
+
+.titulo1 {
+    font-size: 40px;
+}
+
+.subtitulo1, .subtitulo2 {
+    font-size: 30px;
+    text-transform: capitalize;
+}
+
+.texto1, .texto2, .texto3 {
+    font-family: 'Nunito';
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
